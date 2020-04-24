@@ -1,0 +1,9 @@
+C:\Users\arm7g\source\repos\sql_crud\sql_crud\bin\Debug\sql_crud.exe.config
+C:\Users\arm7g\source\repos\sql_crud\sql_crud\bin\Debug\sql_crud.exe
+C:\Users\arm7g\source\repos\sql_crud\sql_crud\bin\Debug\sql_crud.pdb
+C:\Users\arm7g\source\repos\sql_crud\sql_crud\obj\Debug\sql_crud.csprojAssemblyReference.cache
+C:\Users\arm7g\source\repos\sql_crud\sql_crud\obj\Debug\sql_crud.Form1.resources
+C:\Users\arm7g\source\repos\sql_crud\sql_crud\obj\Debug\sql_crud.Properties.Resources.resources
+C:\Users\arm7g\source\repos\sql_crud\sql_crud\obj\Debug\sql_crud.csproj.GenerateResource.cache
+C:\Users\arm7g\source\repos\sql_crud\sql_crud\obj\Debug\sql_crud.exe
+C:\Users\arm7g\source\repos\sql_crud\sql_crud\obj\Debug\sql_crud.pdb
